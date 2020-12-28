@@ -8,7 +8,6 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import os
-from twilio.rest import Client
 from selenium.webdriver.common.keys import Keys 
 
 ## ET Now Feed Scrapper
