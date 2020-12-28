@@ -1,5 +1,4 @@
 import pandas as pd
-import quandl as q
 import requests
 import plotly.graph_objects as go
 from bs4 import BeautifulSoup
